@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://www.npmjs.com/package/jev-starter"><img alt="npm version" src="https://img.shields.io/npm/v/jev-starter?logo=npm"></a>
-  <a href="https://github.com/hamakyo/jev-starter/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/hamakyo/jev-starter/actions/workflows/ci.yml/badge.svg"></a>
-  <a href="https://github.com/hamakyo/jev-starter/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/hamakyo/jev-starter"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/TheJShaner/jev-starter/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/TheJShaner/jev-starter"></a>
   <a href="https://www.npmjs.com/package/jev-starter"><img alt="Node version" src="https://img.shields.io/node/v/jev-starter"></a>
-  <a href="https://github.com/hamakyo/jev-starter/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/hamakyo/jev-starter"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/TheJShaner/jev-starter"></a>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.7%2B-3178C6?logo=typescript&logoColor=white">
 </p>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-> **Status:** `jev-starter@0.1.1` is published on [npm](https://www.npmjs.com/package/jev-starter/v/0.1.1) with provenance, and [`v0.1.1`](https://github.com/hamakyo/jev-starter/releases/tag/v0.1.1) is available as a GitHub Release. This repository is also enabled as a GitHub template. The `main` branch may contain unreleased changes intended for a later version.
+> **Status:** Created from the [hamakyo/jev-starter](https://github.com/hamakyo/jev-starter) template (MIT). Upstream `jev-starter@0.1.1` is on [npm](https://www.npmjs.com/package/jev-starter/v/0.1.1); this copy is not published.
 
 `jev-starter` is not another Jev SDK wrapper. The official `@typesafe-ai/sdk` already provides a typed client. This project focuses on the layer applications still need around the model: **decision contracts, policy thresholds, fallbacks, evaluation, and production examples**.
 

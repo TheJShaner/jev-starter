@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://www.npmjs.com/package/jev-starter"><img alt="npm version" src="https://img.shields.io/npm/v/jev-starter?logo=npm"></a>
-  <a href="https://github.com/hamakyo/jev-starter/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/hamakyo/jev-starter/actions/workflows/ci.yml/badge.svg"></a>
-  <a href="https://github.com/hamakyo/jev-starter/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/hamakyo/jev-starter"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/TheJShaner/jev-starter/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/TheJShaner/jev-starter"></a>
   <a href="https://www.npmjs.com/package/jev-starter"><img alt="Node version" src="https://img.shields.io/node/v/jev-starter"></a>
-  <a href="https://github.com/hamakyo/jev-starter/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/hamakyo/jev-starter"></a>
+  <a href="https://github.com/TheJShaner/jev-starter/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/TheJShaner/jev-starter"></a>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.7%2B-3178C6?logo=typescript&logoColor=white">
 </p>
 

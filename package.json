@@ -5,15 +5,15 @@
   "packageManager": "pnpm@9.15.4",
   "description": "Typed, policy-driven decision workflows on top of the TypeSafe AI Jev SDK",
   "license": "MIT",
-  "author": "hamakyo",
+  "author": "JShaner (template: hamakyo/jev-starter)",
   "keywords": ["jev", "typesafe-ai", "decision-engine", "evaluation", "typescript"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamakyo/jev-starter.git"
+    "url": "https://github.com/TheJShaner/jev-starter.git"
   },
-  "homepage": "https://github.com/hamakyo/jev-starter",
+  "homepage": "https://github.com/TheJShaner/jev-starter",
   "bugs": {
-    "url": "https://github.com/hamakyo/jev-starter/issues"
+    "url": "https://github.com/TheJShaner/jev-starter/issues"
   },
   "files": [
     "dist",
